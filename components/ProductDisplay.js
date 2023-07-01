@@ -46,8 +46,8 @@ app.component('product-display', {
   </div>`,
   data() {
     return {
-      product: 'Socks',
-      brand: 'Vue Mastery',
+      product: 'sTuff',
+      brand: 'VueSocks',
       selectedVariant: 0,
       details: ['50% cotton', '30% wool', '20% polyester'],
       variants: [
